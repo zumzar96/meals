@@ -8,8 +8,9 @@
     "\\src\\components\\Layout",
     "\\src\\components\\Meals",
     "\\src\\components\\Meals\\MealItem",
-    "\\src\\components\\UI"
+    "\\src\\components\\UI",
+    "\\src\\store"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\src\\components\\Layout\\HeaderCartButton.js",
   "PreviewInSolutionExplorer": false
 }
